@@ -6,4 +6,4 @@ if (true) {
 
 const func = function () {
 
-}
+};

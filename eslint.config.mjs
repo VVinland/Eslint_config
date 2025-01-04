@@ -24,7 +24,8 @@ export default [
       }],
       'space-in-parens': ['error', 'never'],
       'space-before-blocks': ['error', 'always'],
-      'no-trailing-spaces': ['error']
+      'no-trailing-spaces': ['error'],
+      'semi': ['error', 'always']
     }
   }
 ];
